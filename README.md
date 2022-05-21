@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Goku747
+- 👋 Hi, I’m Gokul
 - 👀 I’m interested in learning Devops tools.
 - 🌱 I’m currently learning Ansible.
 - 💞️ I’m looking to collaborate on Devops related technologies.
